@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: purple;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 100%;
+    border: 3px solid black;
+}
